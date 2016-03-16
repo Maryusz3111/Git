@@ -2,3 +2,4 @@ aqq - taka sobie zmiana
 kolejna zmiana
 kolejna kolejna zmiana
 zmiana nr 3
+ćwiczenie merge/rebase Github
