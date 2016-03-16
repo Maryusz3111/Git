@@ -3,3 +3,4 @@ kolejna zmiana
 kolejna kolejna zmiana
 zmiana nr 3
 æwiczenie merge/rebase lokalnie
+
